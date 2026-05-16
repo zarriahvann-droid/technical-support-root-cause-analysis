@@ -24,11 +24,11 @@ Developed an Excel-based technical support dashboard to analyze ticket trends, e
 ## Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](Dashboard-overview.png)
 
 ### Pivot Table Analysis
 ![Pivot Analysis](pivot-analysis.png)
-
+![Pivot Analysis1](pivot-analysis1.png)
 ## Skills Demonstrated
 - Root Cause Analysis
 - Technical Troubleshooting
